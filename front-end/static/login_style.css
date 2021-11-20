@@ -20,7 +20,7 @@ html,body{
   overflow: hidden;
   max-width: 390px;
   padding: 30px;
-  border-radius: 15px;
+  border-radius: 14px;
   box-shadow: 10px 30px 45px 50px rgba(8, 8, 8, 0.1);
 }
 .wrapper .title-text{
